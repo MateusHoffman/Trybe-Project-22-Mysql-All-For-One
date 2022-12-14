@@ -5,7 +5,7 @@
 * MySQL
 * SQL
 * Docker
-* Docker compose
+* Docker compose 
 
 ## 💯 Grade/Nota - 100%
 
